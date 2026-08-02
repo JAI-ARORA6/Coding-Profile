@@ -58,6 +58,7 @@
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0509-fibonacci-number) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Greedy
@@ -76,6 +77,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
@@ -84,6 +86,7 @@
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0509-fibonacci-number) |
 ## Binary Search
 |  |
