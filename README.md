@@ -57,6 +57,7 @@
 ## Math
 |  |
 | ------- |
+| [0509-fibonacci-number](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0509-fibonacci-number) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Greedy
 |  |
@@ -71,4 +72,16 @@
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/1260-shift-2d-grid) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0509-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
