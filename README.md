@@ -40,6 +40,7 @@
 | [0056-merge-intervals](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0056-merge-intervals) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3731-find-missing-elements](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/3731-find-missing-elements) |
 ## Counting Sort
 |  |
 | ------- |
@@ -53,6 +54,7 @@
 | [0198-house-robber](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0198-house-robber) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1260-shift-2d-grid](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/1260-shift-2d-grid) |
+| [3731-find-missing-elements](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/3731-find-missing-elements) |
 ## Matrix
 |  |
 | ------- |
@@ -73,6 +75,7 @@
 |  |
 | ------- |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3731-find-missing-elements](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/3731-find-missing-elements) |
 ## Simulation
 |  |
 | ------- |
