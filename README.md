@@ -22,6 +22,7 @@
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0130-surrounded-regions) |
 | [0785-is-graph-bipartite](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0785-is-graph-bipartite) |
 ## Graph Theory
@@ -50,6 +51,7 @@
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0056-merge-intervals) |
+| [0128-longest-consecutive-sequence](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0130-surrounded-regions) |
 | [0198-house-robber](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0198-house-robber) |
 | [0238-product-of-array-except-self](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0238-product-of-array-except-self) |
@@ -75,6 +77,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0128-longest-consecutive-sequence) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3731-find-missing-elements](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/3731-find-missing-elements) |
 ## Simulation
