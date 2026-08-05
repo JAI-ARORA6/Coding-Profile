@@ -50,6 +50,7 @@
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0011-container-with-most-water) |
 | [0056-merge-intervals](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0056-merge-intervals) |
 | [0128-longest-consecutive-sequence](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0130-surrounded-regions) |
@@ -72,6 +73,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0011-container-with-most-water) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Hash Table
@@ -111,4 +113,8 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0238-product-of-array-except-self) |
+## Two Pointers
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
