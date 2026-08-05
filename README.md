@@ -52,6 +52,7 @@
 | [0056-merge-intervals](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0056-merge-intervals) |
 | [0130-surrounded-regions](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0130-surrounded-regions) |
 | [0198-house-robber](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0198-house-robber) |
+| [0238-product-of-array-except-self](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0238-product-of-array-except-self) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1260-shift-2d-grid](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/1260-shift-2d-grid) |
 | [3731-find-missing-elements](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/3731-find-missing-elements) |
@@ -103,4 +104,8 @@
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0056-merge-intervals) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
