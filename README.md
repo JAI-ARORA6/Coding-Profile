@@ -52,6 +52,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0011-container-with-most-water) |
+| [0054-spiral-matrix](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0056-merge-intervals) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0128-longest-consecutive-sequence) |
@@ -64,6 +65,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0054-spiral-matrix) |
 | [0130-surrounded-regions](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0130-surrounded-regions) |
 | [1260-shift-2d-grid](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/1260-shift-2d-grid) |
 ## Math
@@ -87,6 +89,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0054-spiral-matrix) |
 | [1260-shift-2d-grid](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/1260-shift-2d-grid) |
 ## Dynamic Programming
 |  |
