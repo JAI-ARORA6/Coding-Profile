@@ -34,6 +34,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0020-valid-parentheses) |
+| [0076-minimum-window-substring](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0076-minimum-window-substring) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -84,6 +85,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0128-longest-consecutive-sequence) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3731-find-missing-elements](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/3731-find-missing-elements) |
@@ -145,4 +147,8 @@
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0102-binary-tree-level-order-traversal) |
+## Sliding Window
+|  |
+| ------- |
+| [0076-minimum-window-substring](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0076-minimum-window-substring) |
 <!---LeetCode Topics End-->
