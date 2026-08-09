@@ -13,6 +13,7 @@
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0130-surrounded-regions) |
+| [0145-binary-tree-postorder-traversal](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0145-binary-tree-postorder-traversal) |
 | [0785-is-graph-bipartite](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0785-is-graph-bipartite) |
 ## Breadth-First Search
 |  |
@@ -131,6 +132,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0020-valid-parentheses) |
+| [0145-binary-tree-postorder-traversal](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0145-binary-tree-postorder-traversal) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -143,10 +145,12 @@
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0102-binary-tree-level-order-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0145-binary-tree-postorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0102-binary-tree-level-order-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0145-binary-tree-postorder-traversal) |
 ## Sliding Window
 |  |
 | ------- |
