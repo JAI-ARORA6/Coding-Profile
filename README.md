@@ -181,4 +181,8 @@
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
