@@ -4,12 +4,17 @@ class Solution {
             return 1;
 
         }
-        int[] dp=new int[n+1];
-        dp[0]=dp[1]=1;
+        int prev1=1;
+        int prev2=1;
+        int current=0;
 
         for(int i=2;i<=n;i++){
-            dp[i]=dp[i-1]+dp[i-2];
+            current=prev1+prev2;
+            prev2=prev1;
+            prev1=current;
+            
+
         }
-        return dp[n];
+        return current;
     }
 }
