@@ -39,6 +39,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0020-valid-parentheses) |
 | [0076-minimum-window-substring](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0076-minimum-window-substring) |
+| [0242-valid-anagram](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0242-valid-anagram) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -46,6 +47,7 @@
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0056-merge-intervals) |
+| [0242-valid-anagram](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0242-valid-anagram) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3731-find-missing-elements](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/3731-find-missing-elements) |
@@ -94,6 +96,7 @@
 | ------- |
 | [0076-minimum-window-substring](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0128-longest-consecutive-sequence) |
+| [0242-valid-anagram](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0242-valid-anagram) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3731-find-missing-elements](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/3731-find-missing-elements) |
 ## Simulation
