@@ -90,6 +90,7 @@
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/3875-construct-uniform-parity-array-i) |
+| [3945-digit-frequency-score](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/3945-digit-frequency-score) |
 ## Greedy
 |  |
 | ------- |
@@ -104,6 +105,7 @@
 | [0242-valid-anagram](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0242-valid-anagram) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3731-find-missing-elements](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/3731-find-missing-elements) |
+| [3945-digit-frequency-score](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/3945-digit-frequency-score) |
 ## Simulation
 |  |
 | ------- |
