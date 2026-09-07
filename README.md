@@ -45,6 +45,7 @@
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/3541-find-most-frequent-vowel-and-consonant) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Sorting
 |  |
 | ------- |
@@ -115,6 +116,7 @@
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3668-restore-finishing-order](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/3668-restore-finishing-order) |
 | [3731-find-missing-elements](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/3731-find-missing-elements) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3945-digit-frequency-score](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/3945-digit-frequency-score) |
 ## Simulation
 |  |
