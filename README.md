@@ -78,6 +78,7 @@
 | [1979-find-greatest-common-divisor-of-array](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3467-transform-array-by-parity](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/3467-transform-array-by-parity) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3668-restore-finishing-order](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/3668-restore-finishing-order) |
 | [3731-find-missing-elements](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/3875-construct-uniform-parity-array-i) |
 ## Matrix
@@ -112,6 +113,7 @@
 | [0771-jewels-and-stones](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0771-jewels-and-stones) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/3541-find-most-frequent-vowel-and-consonant) |
+| [3668-restore-finishing-order](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/3668-restore-finishing-order) |
 | [3731-find-missing-elements](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/3731-find-missing-elements) |
 | [3945-digit-frequency-score](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/3945-digit-frequency-score) |
 ## Simulation
