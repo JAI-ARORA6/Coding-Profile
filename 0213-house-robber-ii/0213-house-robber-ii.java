@@ -1,22 +1,25 @@
 class Solution {
     public int rob(int[] nums) {
-        int n=nums.length;
-        if(nums.length==1) return nums[0];
-
-        return Math.max(robRange(nums,0,n-2),robRange(nums,1,n-1));
-      
+        if(nums.length==1){
+            return nums[0];
+        }
+        int[] dp=new int[nums.length];
+        Arrays.fill(dp,-1);
+        int[] dp2 = new int[nums.length];
+        Arrays.fill(dp2, -1);
+        return Math.max(fun(nums,0,nums.length-2,dp),fun(nums,1,nums.length-1,dp2));
     }
 
-    private int robRange(int[] nums,int start,int end){
-         int prev2=0;
-       int prev=nums[start];
-        for(int i=start+1;i<=end;i++){
-            int include=nums[i]+prev2;
-            int exclude=prev;
-            int curr=Math.max(include,exclude);
-            prev2=prev;
-            prev=curr;
+    public int fun(int[] nums,int i,int end ,int[] dp){
+        if(i>end){
+            return 0;
         }
-        return prev;
+        if(dp[i]!=-1){
+            return dp[i];
+        }
+        int steal=nums[i]+fun(nums,i+2,end,dp);
+        int skip=fun(nums,i+1,end,dp);
+
+        return dp[i]=Math.max(steal,skip);
     }
 }
