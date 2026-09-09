@@ -1,16 +1,20 @@
 class Solution {
     public int rob(int[] nums) {
-         if(nums.length==0) return 0;
-         int prev2=0;
-         int prev=nums[0];
-         for(int i=1;i<nums.length;i++){
-            int include=nums[i]+prev2;
-            int exclude=prev;
-            int curr=Math.max(include,exclude);
+        int[] dp=new int[nums.length];
+        Arrays.fill(dp,-1);
+        return fun(nums,0,dp);
+    }
 
-            prev2=prev;
-            prev=curr;
-         }
-         return prev;
+    public int fun(int[] nums,int i ,int[] dp){
+        if(i>=nums.length){
+            return 0;
+        }
+        if(dp[i]!=-1){
+            return dp[i];
+        }
+        int steal=nums[i]+fun(nums,i+2,dp);
+        int skip=fun(nums,i+1,dp);
+
+        return dp[i]=Math.max(steal,skip);
     }
 }
