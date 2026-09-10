@@ -39,6 +39,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0020-valid-parentheses) |
 | [0076-minimum-window-substring](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0076-minimum-window-substring) |
+| [0091-decode-ways](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0091-decode-ways) |
 | [0242-valid-anagram](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0242-valid-anagram) |
 | [0771-jewels-and-stones](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0771-jewels-and-stones) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -129,6 +130,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0070-climbing-stairs) |
+| [0091-decode-ways](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0091-decode-ways) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0213-house-robber-ii) |
