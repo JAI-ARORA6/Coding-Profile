@@ -79,6 +79,7 @@
 | [0213-house-robber-ii](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0213-house-robber-ii) |
 | [0238-product-of-array-except-self](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0238-product-of-array-except-self) |
 | [0416-partition-equal-subset-sum](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0494-target-sum) |
 | [0740-delete-and-earn](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0746-min-cost-climbing-stairs) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -143,6 +144,7 @@
 | [0198-house-robber](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0213-house-robber-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0509-fibonacci-number) |
 | [0740-delete-and-earn](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0746-min-cost-climbing-stairs) |
@@ -270,6 +272,7 @@
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0039-combination-sum) |
+| [0494-target-sum](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0494-target-sum) |
 ## Trie
 |  |
 | ------- |
@@ -282,8 +285,10 @@
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0494-target-sum) |
 ## 0-1 Knapsack
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
