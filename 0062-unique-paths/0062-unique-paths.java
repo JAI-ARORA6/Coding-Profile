@@ -20,10 +20,10 @@ class Solution {
             int down=0;
 
             if(x<m-1){
-                right=fun(x+1,y,m,n,dp);
+                down=fun(x+1,y,m,n,dp);
             }
             if(y<n-1){
-                down=fun(x,y+1,m,n,dp);
+                right=fun(x,y+1,m,n,dp);
             }
 
             return dp[x][y]=right+down;
