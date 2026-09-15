@@ -3,28 +3,25 @@ class Solution {
         int m=grid.length;
         int n=grid[0].length;
         int[][] dp=new int[m][n];
-        for(int[] num:dp){
-            Arrays.fill(num,-1);
+        for(int i=0;i<m;i++){
+            for(int j=0;j<n;j++){
+                
+                if(i==0 && j==0 ){
+                    dp[i][j]=grid[0][0];
+                }
+                
+                else{
+                    int up = Integer.MAX_VALUE;
+                    int left = Integer.MAX_VALUE;
+                    if(i>0) up=dp[i-1][j]+grid[i][j];
+                    if(j>0) left=dp[i][j-1]+grid[i][j];
+                    dp[i][j]=Math.min(up,left);
+                }
+
+            }
         }
-        return fun(grid,0,0,m,n,dp);
+        return dp[m-1][n-1];
+      
     }
-    public int fun(int[][] grid,int i,int j,int m,int n,int[][] dp){
-        if(i==m-1 && j==n-1){
-            return grid[i][j];
-        }
-        if(dp[i][j] != -1){
-            return dp[i][j];
-        }
-        int right=Integer.MAX_VALUE;
-        int down=Integer.MAX_VALUE;
-
-       if(j<n-1) {
-        right=fun(grid,i,j+1,m,n,dp)+grid[i][j];}
-
-       if(i<m-1) {
-        down=fun(grid,i+1,j,m,n,dp)+grid[i][j];
-       }
-
-        return dp[i][j]=Math.min(right,down);
-    }
+   
 }
