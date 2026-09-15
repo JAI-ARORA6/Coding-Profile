@@ -3,34 +3,29 @@ class Solution {
         int m=obstacleGrid.length;
         int n=obstacleGrid[0].length;
          int[][] dp=new int[m][n];
-        for(int i=0;i<m;i++){
-            Arrays.fill(dp[i],-1);
-        }
         
-        return fun(obstacleGrid,0,0,m,n,dp);
+       for(int i=0;i<m;i++){
+            for(int j=0;j<n;j++){
+                int up=0;
+                int left=0;
+if(obstacleGrid[i][j]==1){
+                    dp[i][j]=0;
+                }
+                else if(i==0&& j==0){
+                    dp[i][j]=1;
+                }
+                
+                else{
+                    if(i>0) up=dp[i-1][j];
+                    if(j>0) left=dp[i][j-1];
+                    dp[i][j]=up+left;
+                }
+
+            } 
+       }
+       return dp[m-1][n-1];
+        
+        
     }
-    public int fun(int[][] a,int x,int y,int m,int n,int[][] dp){
-            
-            if(dp[x][y]!=-1){
-                return dp[x][y];
-            }
-
-            if(a[x][y]==1){
-                return 0;
-            }
-if(x==m-1 && y==n-1){
-                return 1;
-            }
-            int right=0;
-            int down=0;
-
-            if(x<m-1){
-                right=fun(a,x+1,y,m,n,dp);
-            }
-            if(y<n-1){
-                down=fun(a,x,y+1,m,n,dp);
-            }
-
-            return dp[x][y]=right+down;
-        }
+    
 }
