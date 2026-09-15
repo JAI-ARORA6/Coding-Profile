@@ -106,6 +106,7 @@
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0070-climbing-stairs) |
 | [0263-ugly-number](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0263-ugly-number) |
 | [0279-perfect-squares](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0279-perfect-squares) |
@@ -144,6 +145,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0091-decode-ways) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -314,4 +316,8 @@
 | [0279-perfect-squares](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0518-coin-change-ii) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
