@@ -22,6 +22,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0102-binary-tree-level-order-traversal) |
 | [0130-surrounded-regions](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0130-surrounded-regions) |
 | [0207-course-schedule](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0207-course-schedule) |
+| [0279-perfect-squares](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0322-coin-change) |
 | [0785-is-graph-bipartite](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0785-is-graph-bipartite) |
 ## Union-Find
@@ -107,6 +108,7 @@
 | ------- |
 | [0070-climbing-stairs](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0070-climbing-stairs) |
 | [0263-ugly-number](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0263-ugly-number) |
+| [0279-perfect-squares](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0279-perfect-squares) |
 | [0509-fibonacci-number](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0509-fibonacci-number) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -148,6 +150,7 @@
 | [0139-word-break](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0213-house-robber-ii) |
+| [0279-perfect-squares](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0322-coin-change) |
 | [0377-combination-sum-iv](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0377-combination-sum-iv) |
 | [0416-partition-equal-subset-sum](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0416-partition-equal-subset-sum) |
@@ -293,6 +296,7 @@
 ## Knapsack Problem
 |  |
 | ------- |
+| [0279-perfect-squares](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0494-target-sum) |
@@ -307,6 +311,7 @@
 ## Complete Knapsack
 |  |
 | ------- |
+| [0279-perfect-squares](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0518-coin-change-ii) |
 <!---LeetCode Topics End-->
