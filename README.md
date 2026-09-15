@@ -73,6 +73,7 @@
 | [0039-combination-sum](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0039-combination-sum) |
 | [0054-spiral-matrix](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0056-merge-intervals) |
+| [0063-unique-paths-ii](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0063-unique-paths-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0130-surrounded-regions) |
@@ -101,6 +102,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0054-spiral-matrix) |
+| [0063-unique-paths-ii](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0063-unique-paths-ii) |
 | [0130-surrounded-regions](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0130-surrounded-regions) |
 | [1260-shift-2d-grid](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/1260-shift-2d-grid) |
 ## Math
@@ -146,6 +148,7 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0091-decode-ways) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0121-best-time-to-buy-and-sell-stock) |
