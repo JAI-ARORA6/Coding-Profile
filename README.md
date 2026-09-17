@@ -12,6 +12,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0130-surrounded-regions](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0130-surrounded-regions) |
 | [0145-binary-tree-postorder-traversal](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0145-binary-tree-postorder-traversal) |
 | [0207-course-schedule](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0207-course-schedule) |
@@ -159,6 +160,7 @@
 | [0091-decode-ways](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0091-decode-ways) |
 | [0120-triangle](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0139-word-break](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0213-house-robber-ii) |
@@ -219,12 +221,14 @@
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0102-binary-tree-level-order-traversal) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0145-binary-tree-postorder-traversal](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0145-binary-tree-postorder-traversal) |
 | [0337-house-robber-iii](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0337-house-robber-iii) |
 ## Binary Tree
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0102-binary-tree-level-order-traversal) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0145-binary-tree-postorder-traversal](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0145-binary-tree-postorder-traversal) |
 | [0337-house-robber-iii](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0337-house-robber-iii) |
 ## Sliding Window
@@ -337,5 +341,6 @@
 ## DP on Trees
 |  |
 | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0337-house-robber-iii](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0337-house-robber-iii) |
 <!---LeetCode Topics End-->
