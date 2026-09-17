@@ -75,6 +75,7 @@
 | [0056-merge-intervals](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0064-minimum-path-sum) |
+| [0120-triangle](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0130-surrounded-regions) |
@@ -154,6 +155,7 @@
 | [0064-minimum-path-sum](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0091-decode-ways) |
+| [0120-triangle](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0139-word-break](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0198-house-robber) |
