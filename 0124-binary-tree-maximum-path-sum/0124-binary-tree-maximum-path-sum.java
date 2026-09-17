@@ -15,7 +15,6 @@
  */
 class Solution {
     int ans=Integer.MIN_VALUE;
-    private HashMap<TreeNode,Integer> dp=new HashMap<>();
     public int maxPathSum(TreeNode root) {
        
        fun(root);
@@ -26,17 +25,12 @@ class Solution {
         if(root==null){
             return 0;
         }
-        if(dp.containsKey(root)){
-            return dp.get(root);
-        }
 
         int leftsum=Math.max(0,fun(root.left));
         int rightsum=Math.max(0,fun(root.right));
 
         int current=leftsum+rightsum+root.val;
         ans=Math.max(ans,current);
-        int res=Math.max(leftsum,rightsum)+root.val;
-    dp.put(root,res);
-        return res;
+        return Math.max(leftsum,rightsum)+root.val;
     }
 }
