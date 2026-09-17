@@ -70,6 +70,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0011-container-with-most-water) |
+| [0031-next-permutation](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0031-next-permutation) |
 | [0039-combination-sum](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0039-combination-sum) |
 | [0054-spiral-matrix](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0056-merge-intervals) |
@@ -198,6 +199,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0031-next-permutation](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0031-next-permutation) |
 ## Stack
 |  |
 | ------- |
