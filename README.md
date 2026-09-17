@@ -17,6 +17,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0145-binary-tree-postorder-traversal) |
 | [0207-course-schedule](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0207-course-schedule) |
 | [0337-house-robber-iii](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0337-house-robber-iii) |
+| [0543-diameter-of-binary-tree](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0543-diameter-of-binary-tree) |
 | [0785-is-graph-bipartite](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0785-is-graph-bipartite) |
 ## Breadth-First Search
 |  |
@@ -224,6 +225,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0145-binary-tree-postorder-traversal](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0145-binary-tree-postorder-traversal) |
 | [0337-house-robber-iii](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0337-house-robber-iii) |
+| [0543-diameter-of-binary-tree](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -231,6 +233,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0145-binary-tree-postorder-traversal](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0145-binary-tree-postorder-traversal) |
 | [0337-house-robber-iii](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0337-house-robber-iii) |
+| [0543-diameter-of-binary-tree](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0543-diameter-of-binary-tree) |
 ## Sliding Window
 |  |
 | ------- |
@@ -343,4 +346,5 @@
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0337-house-robber-iii](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0337-house-robber-iii) |
+| [0543-diameter-of-binary-tree](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
