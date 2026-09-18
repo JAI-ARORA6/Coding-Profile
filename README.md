@@ -87,6 +87,7 @@
 | [0198-house-robber](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0213-house-robber-ii) |
 | [0238-product-of-array-except-self](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0238-product-of-array-except-self) |
+| [0300-longest-increasing-subsequence](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0322-coin-change) |
 | [0377-combination-sum-iv](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0377-combination-sum-iv) |
 | [0416-partition-equal-subset-sum](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0416-partition-equal-subset-sum) |
@@ -166,6 +167,7 @@
 | [0198-house-robber](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0213-house-robber-ii) |
 | [0279-perfect-squares](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0279-perfect-squares) |
+| [0300-longest-increasing-subsequence](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0322-coin-change) |
 | [0337-house-robber-iii](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0337-house-robber-iii) |
 | [0377-combination-sum-iv](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0377-combination-sum-iv) |
@@ -190,6 +192,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0300-longest-increasing-subsequence](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0300-longest-increasing-subsequence) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 ## Quicksort
 |  |
@@ -347,4 +350,8 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0337-house-robber-iii](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0337-house-robber-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0543-diameter-of-binary-tree) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
