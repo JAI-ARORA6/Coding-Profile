@@ -93,6 +93,7 @@
 | [0416-partition-equal-subset-sum](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0518-coin-change-ii) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0740-delete-and-earn](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0746-min-cost-climbing-stairs) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -175,6 +176,7 @@
 | [0494-target-sum](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0509-fibonacci-number) |
 | [0518-coin-change-ii](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0518-coin-change-ii) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0740-delete-and-earn](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0746-min-cost-climbing-stairs) |
 | [1049-last-stone-weight-ii](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/1049-last-stone-weight-ii) |
@@ -354,4 +356,13 @@
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0300-longest-increasing-subsequence) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0673-number-of-longest-increasing-subsequence) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0673-number-of-longest-increasing-subsequence) |
+## Segment Tree
+|  |
+| ------- |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0673-number-of-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
