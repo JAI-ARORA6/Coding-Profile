@@ -1,44 +1,35 @@
 class Solution {
-    class Pair{
-        int len,count;
-        Pair(int len,int count){
-            this.len=len;
-            this.count=count;
-        }
-    }
     public int findNumberOfLIS(int[] nums) {
         int n=nums.length;
-        Pair[][] dp=new Pair[n][n+1];
 
-        Pair ans=fun(nums,0,-1,dp);
-        return ans.count;
-    }
+        int[] len=new int[n];
+        int[] count=new int[n];
+        Arrays.fill(len,1);
+        Arrays.fill(count,1);
 
-    private Pair fun(int[] nums,int i,int prev,Pair[][] dp){
-        if(i==nums.length){
-            return new Pair(0,1);
-        }
-        if(dp[i][prev+1]!=null){
-            return dp[i][prev+1];
-        }
+        int maxLen=1;
+        for(int i=0;i<n;i++){
+            for(int j=0;j<i;j++){
+                if(nums[j]<nums[i]){
+                    int newLen=len[j]+1;
 
-        Pair ignore=fun(nums,i+1,prev,dp);
-        Pair take=new Pair(-1,0);
-        if(prev==-1 || nums[i]>nums[prev]){
-            Pair next=fun(nums,i+1,i,dp);
-            take=new Pair(1+next.len,next.count);
+                    if(newLen>len[i]){
+                        len[i]=newLen;
+                        count[i]=count[j];
+                    }
+                    else if(newLen==len[i]){
+                        count[i]+=count[j];
+                    }
+                }
+            }
+            maxLen=Math.max(maxLen,len[i]);
         }
-        Pair result;
-        if(take.len>ignore.len){
-            result=take;
+        int ans=0;
+        for(int i=0;i<n;i++){
+            if(len[i]==maxLen){
+                ans+=count[i];
+            }
         }
-        else if(ignore.len>take.len){
-            result=ignore;
-        }
-        else{
-            result=new Pair(take.len,take.count+ignore.count);
-        }
-        dp[i][prev+1]=result;
-        return result;
+        return ans;
     }
 }
