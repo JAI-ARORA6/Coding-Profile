@@ -21,6 +21,7 @@
 | [0207-course-schedule](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0207-course-schedule) |
 | [0337-house-robber-iii](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0337-house-robber-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0543-diameter-of-binary-tree) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0785-is-graph-bipartite](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0785-is-graph-bipartite) |
 ## Breadth-First Search
 |  |
@@ -31,6 +32,7 @@
 | [0207-course-schedule](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0207-course-schedule) |
 | [0279-perfect-squares](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0322-coin-change) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0785-is-graph-bipartite](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0785-is-graph-bipartite) |
 ## Union-Find
 |  |
@@ -248,6 +250,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0199-binary-tree-right-side-view) |
 | [0337-house-robber-iii](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0337-house-robber-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0543-diameter-of-binary-tree) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -259,6 +262,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0199-binary-tree-right-side-view) |
 | [0337-house-robber-iii](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0337-house-robber-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0543-diameter-of-binary-tree) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Sliding Window
 |  |
 | ------- |
