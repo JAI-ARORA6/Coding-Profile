@@ -14,13 +14,12 @@
  * }
  */
 class Solution {
-    private HashMap<TreeNode,Integer> dp=new HashMap<>();
-    int res=0;
     public int diameterOfBinaryTree(TreeNode root) {
         fun(root);
         return res;
     }
 
+    int res=0;
     private int fun(TreeNode root){
         if(root==null){
             return 0;
@@ -29,8 +28,6 @@ class Solution {
         int right=fun(root.right);
         int ans=left+right;
         res=Math.max(res,ans);
-        int height=1+Math.max(left,right);
-        dp.put(root,height);
-        return height;
+        return 1+Math.max(left,right);
     }
 }
