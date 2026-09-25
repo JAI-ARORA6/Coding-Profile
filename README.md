@@ -24,6 +24,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0199-binary-tree-right-side-view) |
 | [0207-course-schedule](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0226-invert-binary-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0337-house-robber-iii](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0337-house-robber-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0543-diameter-of-binary-tree) |
@@ -263,6 +264,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0226-invert-binary-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0337-house-robber-iii](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0337-house-robber-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0543-diameter-of-binary-tree) |
@@ -282,6 +284,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0226-invert-binary-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0337-house-robber-iii](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0337-house-robber-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0543-diameter-of-binary-tree) |
@@ -418,9 +421,15 @@
 ## Binary Lifting
 |  |
 | ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Lowest Common Ancestor
 |  |
 | ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 <!---LeetCode Topics End-->
