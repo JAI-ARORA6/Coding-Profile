@@ -28,6 +28,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0785-is-graph-bipartite](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0785-is-graph-bipartite) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -41,6 +42,7 @@
 | [0322-coin-change](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0322-coin-change) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0785-is-graph-bipartite](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0785-is-graph-bipartite) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Union-Find
 |  |
 | ------- |
@@ -263,6 +265,7 @@
 | [0337-house-robber-iii](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0337-house-robber-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0637-average-of-levels-in-binary-tree) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -280,6 +283,7 @@
 | [0337-house-robber-iii](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0337-house-robber-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0637-average-of-levels-in-binary-tree) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Sliding Window
 |  |
 | ------- |
