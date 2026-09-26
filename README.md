@@ -96,6 +96,7 @@
 | [0031-next-permutation](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0031-next-permutation) |
 | [0039-combination-sum](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0039-combination-sum) |
 | [0054-spiral-matrix](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0064-minimum-path-sum) |
@@ -154,6 +155,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0055-jump-game) |
 | [0646-maximum-length-of-pair-chain](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0646-maximum-length-of-pair-chain) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -182,6 +184,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0064-minimum-path-sum) |
