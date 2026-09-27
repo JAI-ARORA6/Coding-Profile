@@ -95,6 +95,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0031-next-permutation) |
 | [0039-combination-sum](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0039-combination-sum) |
+| [0045-jump-game-ii](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0045-jump-game-ii) |
 | [0054-spiral-matrix](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0056-merge-intervals) |
@@ -157,6 +158,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0134-gas-station) |
@@ -188,6 +190,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0063-unique-paths-ii) |
