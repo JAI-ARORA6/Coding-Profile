@@ -65,6 +65,7 @@
 | [0091-decode-ways](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0091-decode-ways) |
 | [0139-word-break](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0139-word-break) |
 | [0242-valid-anagram](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0242-valid-anagram) |
+| [0763-partition-labels](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0763-partition-labels) |
 | [0771-jewels-and-stones](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0771-jewels-and-stones) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -163,6 +164,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0134-gas-station) |
 | [0646-maximum-length-of-pair-chain](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0646-maximum-length-of-pair-chain) |
+| [0763-partition-labels](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0763-partition-labels) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Hash Table
@@ -175,6 +177,7 @@
 | [0139-word-break](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0139-word-break) |
 | [0242-valid-anagram](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0242-valid-anagram) |
 | [0740-delete-and-earn](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0740-delete-and-earn) |
+| [0763-partition-labels](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0763-partition-labels) |
 | [0771-jewels-and-stones](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0771-jewels-and-stones) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/3541-find-most-frequent-vowel-and-consonant) |
@@ -249,6 +252,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0031-next-permutation) |
+| [0763-partition-labels](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0763-partition-labels) |
 ## Stack
 |  |
 | ------- |
