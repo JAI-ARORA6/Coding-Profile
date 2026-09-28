@@ -77,6 +77,7 @@
 | ------- |
 | [0056-merge-intervals](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0056-merge-intervals) |
 | [0242-valid-anagram](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0242-valid-anagram) |
+| [0455-assign-cookies](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0455-assign-cookies) |
 | [0646-maximum-length-of-pair-chain](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0646-maximum-length-of-pair-chain) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3467-transform-array-by-parity](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/3467-transform-array-by-parity) |
@@ -118,6 +119,7 @@
 | [0322-coin-change](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0322-coin-change) |
 | [0377-combination-sum-iv](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0377-combination-sum-iv) |
 | [0416-partition-equal-subset-sum](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0416-partition-equal-subset-sum) |
+| [0455-assign-cookies](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0455-assign-cookies) |
 | [0494-target-sum](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0518-coin-change-ii) |
 | [0646-maximum-length-of-pair-chain](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0646-maximum-length-of-pair-chain) |
@@ -163,6 +165,7 @@
 | [0055-jump-game](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0134-gas-station) |
+| [0455-assign-cookies](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0455-assign-cookies) |
 | [0646-maximum-length-of-pair-chain](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0646-maximum-length-of-pair-chain) |
 | [0763-partition-labels](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0763-partition-labels) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -241,6 +244,7 @@
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0056-merge-intervals) |
+| [0455-assign-cookies](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0455-assign-cookies) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -252,6 +256,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0031-next-permutation) |
+| [0455-assign-cookies](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0455-assign-cookies) |
 | [0763-partition-labels](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0763-partition-labels) |
 ## Stack
 |  |
