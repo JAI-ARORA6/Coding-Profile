@@ -82,6 +82,7 @@
 | [0455-assign-cookies](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0455-assign-cookies) |
 | [0646-maximum-length-of-pair-chain](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0646-maximum-length-of-pair-chain) |
 | [0846-hand-of-straights](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0846-hand-of-straights) |
+| [1710-maximum-units-on-a-truck](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/1710-maximum-units-on-a-truck) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3467-transform-array-by-parity](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/3467-transform-array-by-parity) |
@@ -136,6 +137,7 @@
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1049-last-stone-weight-ii](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/1049-last-stone-weight-ii) |
 | [1260-shift-2d-grid](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/1260-shift-2d-grid) |
+| [1710-maximum-units-on-a-truck](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/1710-maximum-units-on-a-truck) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2140-solving-questions-with-brainpower](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/2140-solving-questions-with-brainpower) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/2410-maximum-matching-of-players-with-trainers) |
@@ -179,6 +181,7 @@
 | [0646-maximum-length-of-pair-chain](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0646-maximum-length-of-pair-chain) |
 | [0763-partition-labels](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0763-partition-labels) |
 | [0846-hand-of-straights](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0846-hand-of-straights) |
+| [1710-maximum-units-on-a-truck](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/1710-maximum-units-on-a-truck) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
