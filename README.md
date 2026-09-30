@@ -108,6 +108,7 @@
 | [0056-merge-intervals](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0064-minimum-path-sum) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0120-triangle](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0120-triangle) |
@@ -255,6 +256,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0300-longest-increasing-subsequence) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 ## Quicksort
