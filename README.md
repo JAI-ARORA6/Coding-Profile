@@ -52,6 +52,7 @@
 | [0637-average-of-levels-in-binary-tree](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0733-flood-fill](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0785-is-graph-bipartite) |
+| [0994-rotting-oranges](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0994-rotting-oranges) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/1971-find-if-path-exists-in-graph) |
 ## Union-Find
@@ -150,6 +151,7 @@
 | [0740-delete-and-earn](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0746-min-cost-climbing-stairs) |
 | [0846-hand-of-straights](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0846-hand-of-straights) |
+| [0994-rotting-oranges](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0994-rotting-oranges) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1049-last-stone-weight-ii](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/1049-last-stone-weight-ii) |
 | [1260-shift-2d-grid](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/1260-shift-2d-grid) |
@@ -171,6 +173,7 @@
 | [0130-surrounded-regions](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0733-flood-fill) |
+| [0994-rotting-oranges](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0994-rotting-oranges) |
 | [1260-shift-2d-grid](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/1260-shift-2d-grid) |
 ## Math
 |  |
