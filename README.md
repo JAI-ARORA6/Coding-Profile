@@ -93,6 +93,7 @@
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0056-merge-intervals) |
+| [0217-contains-duplicate](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0242-valid-anagram) |
 | [0435-non-overlapping-intervals](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -138,6 +139,7 @@
 | [0198-house-robber](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0213-house-robber-ii) |
+| [0217-contains-duplicate](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0238-product-of-array-except-self) |
 | [0300-longest-increasing-subsequence](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0322-coin-change) |
@@ -219,6 +221,7 @@
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0139-word-break) |
+| [0217-contains-duplicate](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0242-valid-anagram) |
 | [0740-delete-and-earn](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0740-delete-and-earn) |
 | [0763-partition-labels](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0763-partition-labels) |
