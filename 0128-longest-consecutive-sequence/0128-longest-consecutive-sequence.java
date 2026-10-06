@@ -5,10 +5,9 @@ class Solution {
             return 0;
         }
         Set<Integer> set=new HashSet<>();
-        for(int i=0;i<n;i++){
-            set.add(nums[i]);
+        for(int num:nums){
+            set.add(num);
         }
-
         int longest=1;
         for(int it:set){
             if(!set.contains(it-1)){
@@ -20,9 +19,7 @@ class Solution {
                 }
                 longest=Math.max(longest,cnt);
             }
-            
         }
-
-            return longest;
+        return longest;
     }
 }
