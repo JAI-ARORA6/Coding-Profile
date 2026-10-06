@@ -83,6 +83,7 @@
 | [0091-decode-ways](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0091-decode-ways) |
 | [0139-word-break](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0139-word-break) |
 | [0242-valid-anagram](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0242-valid-anagram) |
+| [0387-first-unique-character-in-a-string](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0387-first-unique-character-in-a-string) |
 | [0763-partition-labels](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0763-partition-labels) |
 | [0771-jewels-and-stones](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0771-jewels-and-stones) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -112,6 +113,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0169-majority-element) |
+| [0387-first-unique-character-in-a-string](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0387-first-unique-character-in-a-string) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3467-transform-array-by-parity](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/3467-transform-array-by-parity) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -228,6 +230,7 @@
 | [0169-majority-element](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0242-valid-anagram) |
+| [0387-first-unique-character-in-a-string](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0387-first-unique-character-in-a-string) |
 | [0740-delete-and-earn](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0740-delete-and-earn) |
 | [0763-partition-labels](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0763-partition-labels) |
 | [0771-jewels-and-stones](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0771-jewels-and-stones) |
@@ -512,4 +515,8 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0169-majority-element) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
