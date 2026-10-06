@@ -83,6 +83,7 @@
 | [0091-decode-ways](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0091-decode-ways) |
 | [0139-word-break](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0139-word-break) |
 | [0242-valid-anagram](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0290-word-pattern) |
 | [0387-first-unique-character-in-a-string](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0387-first-unique-character-in-a-string) |
 | [0763-partition-labels](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0763-partition-labels) |
 | [0771-jewels-and-stones](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0771-jewels-and-stones) |
@@ -230,6 +231,7 @@
 | [0169-majority-element](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0290-word-pattern) |
 | [0387-first-unique-character-in-a-string](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0387-first-unique-character-in-a-string) |
 | [0740-delete-and-earn](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0740-delete-and-earn) |
 | [0763-partition-labels](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0763-partition-labels) |
