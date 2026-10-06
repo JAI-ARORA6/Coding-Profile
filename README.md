@@ -6,6 +6,7 @@
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0169-majority-element](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0191-number-of-1-bits) |
 ## Bit Manipulation
 |  |
@@ -93,6 +94,7 @@
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0056-merge-intervals) |
+| [0169-majority-element](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0242-valid-anagram) |
 | [0435-non-overlapping-intervals](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0435-non-overlapping-intervals) |
@@ -109,6 +111,7 @@
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0169-majority-element) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3467-transform-array-by-parity](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/3467-transform-array-by-parity) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -136,6 +139,7 @@
 | [0130-surrounded-regions](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0130-surrounded-regions) |
 | [0134-gas-station](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0134-gas-station) |
 | [0139-word-break](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0139-word-break) |
+| [0169-majority-element](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0213-house-robber-ii) |
@@ -221,6 +225,7 @@
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0139-word-break) |
+| [0169-majority-element](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0242-valid-anagram) |
 | [0740-delete-and-earn](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0740-delete-and-earn) |
@@ -503,4 +508,8 @@
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
