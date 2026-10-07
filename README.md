@@ -151,6 +151,7 @@
 | [0217-contains-duplicate](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0238-product-of-array-except-self) |
+| [0283-move-zeroes](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0322-coin-change) |
 | [0377-combination-sum-iv](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0377-combination-sum-iv) |
@@ -323,6 +324,7 @@
 | [0031-next-permutation](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0042-trapping-rain-water) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0283-move-zeroes](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0455-assign-cookies) |
 | [0763-partition-labels](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0763-partition-labels) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/2410-maximum-matching-of-players-with-trainers) |
