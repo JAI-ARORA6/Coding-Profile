@@ -6,14 +6,14 @@ class Solution {
         while(i<j){
             sum=numbers[i]+numbers[j];
             if(sum>target){
-                sum=sum-numbers[j];
+                
                 j--;
-                sum=sum+numbers[i];
+               
             }
             else if(sum<target){
-                sum=sum-numbers[i];
+                
                 i++;
-                sum=sum+numbers[i];
+               
             }
             else{
                 return new int[]{i+1,j+1};
