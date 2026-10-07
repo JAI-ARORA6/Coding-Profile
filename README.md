@@ -142,6 +142,7 @@
 | [0130-surrounded-regions](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0130-surrounded-regions) |
 | [0134-gas-station](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0134-gas-station) |
 | [0139-word-break](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0139-word-break) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0200-number-of-islands) |
@@ -299,6 +300,7 @@
 |  |
 | ------- |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0300-longest-increasing-subsequence](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0300-longest-increasing-subsequence) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 ## Quicksort
@@ -317,6 +319,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0031-next-permutation) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0455-assign-cookies](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0455-assign-cookies) |
 | [0763-partition-labels](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0763-partition-labels) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/2410-maximum-matching-of-players-with-trainers) |
