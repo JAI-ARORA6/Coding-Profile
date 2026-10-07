@@ -126,6 +126,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0031-next-permutation) |
 | [0039-combination-sum](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0039-combination-sum) |
+| [0042-trapping-rain-water](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0045-jump-game-ii) |
 | [0054-spiral-matrix](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0055-jump-game) |
@@ -256,6 +257,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0062-unique-paths) |
@@ -319,6 +321,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0042-trapping-rain-water) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0455-assign-cookies](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0455-assign-cookies) |
 | [0763-partition-labels](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0763-partition-labels) |
@@ -327,6 +330,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0042-trapping-rain-water) |
 | [0145-binary-tree-postorder-traversal](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0145-binary-tree-postorder-traversal) |
 ## Bracket Sequences
 |  |
@@ -529,4 +533,8 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0387-first-unique-character-in-a-string) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
