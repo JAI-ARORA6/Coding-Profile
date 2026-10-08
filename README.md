@@ -155,6 +155,7 @@
 | [0238-product-of-array-except-self](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0300-longest-increasing-subsequence) |
+| [0303-range-sum-query-immutable](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0303-range-sum-query-immutable) |
 | [0322-coin-change](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0322-coin-change) |
 | [0377-combination-sum-iv](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0377-combination-sum-iv) |
 | [0416-partition-equal-subset-sum](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0416-partition-equal-subset-sum) |
@@ -320,6 +321,7 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0238-product-of-array-except-self) |
+| [0303-range-sum-query-immutable](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0303-range-sum-query-immutable) |
 | [1480-running-sum-of-1d-array](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/1480-running-sum-of-1d-array) |
 ## Two Pointers
 |  |
@@ -548,4 +550,8 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0042-trapping-rain-water) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
