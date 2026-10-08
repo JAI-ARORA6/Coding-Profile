@@ -87,6 +87,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0387-first-unique-character-in-a-string) |
 | [0763-partition-labels](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0763-partition-labels) |
 | [0771-jewels-and-stones](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0771-jewels-and-stones) |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -391,6 +392,7 @@
 | [0076-minimum-window-substring](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0076-minimum-window-substring) |
 | [0219-contains-duplicate-ii](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0643-maximum-average-subarray-i) |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Topological Sort
 |  |
 | ------- |
