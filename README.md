@@ -162,6 +162,7 @@
 | [0455-assign-cookies](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0455-assign-cookies) |
 | [0494-target-sum](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0518-coin-change-ii) |
+| [0643-maximum-average-subarray-i](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0643-maximum-average-subarray-i) |
 | [0646-maximum-length-of-pair-chain](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0646-maximum-length-of-pair-chain) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0695-max-area-of-island](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0695-max-area-of-island) |
@@ -389,6 +390,7 @@
 | ------- |
 | [0076-minimum-window-substring](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0076-minimum-window-substring) |
 | [0219-contains-duplicate-ii](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0219-contains-duplicate-ii) |
+| [0643-maximum-average-subarray-i](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0643-maximum-average-subarray-i) |
 ## Topological Sort
 |  |
 | ------- |
