@@ -184,6 +184,7 @@
 | [1979-find-greatest-common-divisor-of-array](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2140-solving-questions-with-brainpower](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/2140-solving-questions-with-brainpower) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3467-transform-array-by-parity](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/3467-transform-array-by-parity) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3668-restore-finishing-order](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/3668-restore-finishing-order) |
@@ -561,4 +562,8 @@
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0303-range-sum-query-immutable) |
+## Enumeration
+|  |
+| ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/2778-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
