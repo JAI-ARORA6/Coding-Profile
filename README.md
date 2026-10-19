@@ -109,6 +109,7 @@
 | [0646-maximum-length-of-pair-chain](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0646-maximum-length-of-pair-chain) |
 | [0846-hand-of-straights](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0846-hand-of-straights) |
 | [1710-maximum-units-on-a-truck](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/1710-maximum-units-on-a-truck) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3467-transform-array-by-parity](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/3467-transform-array-by-parity) |
@@ -184,6 +185,7 @@
 | [1480-running-sum-of-1d-array](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/1480-running-sum-of-1d-array) |
 | [1710-maximum-units-on-a-truck](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/1710-maximum-units-on-a-truck) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2140-solving-questions-with-brainpower](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/2140-solving-questions-with-brainpower) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -321,6 +323,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0240-search-a-2d-matrix-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0300-longest-increasing-subsequence) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Quicksort
 |  |
 | ------- |
