@@ -1,4 +1,12 @@
 # Write your MySQL query statement below
-SELECT MAX(salary) AS SecondHighestSalary
-FROM Employee
-Where salary<(Select MAX(salary) FROM Employee);
+SELECT(
+    SELECT DISTINCT salary
+    FROM(
+        SELECT 
+            salary,
+            DENSE_RANK() OVER (ORDER BY salary DESC) As rnk
+        FROM Employee
+    ) AS RankedSalaries
+    Where rnk=2
+
+) AS SecondHighestSalary;
