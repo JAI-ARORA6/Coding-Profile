@@ -13,6 +13,7 @@
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0191-number-of-1-bits) |
+| [0287-find-the-duplicate-number](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0338-counting-bits) |
 ## Depth-First Search
 |  |
@@ -168,6 +169,7 @@
 | [0238-product-of-array-except-self](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0300-longest-increasing-subsequence) |
 | [0303-range-sum-query-immutable](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0303-range-sum-query-immutable) |
 | [0322-coin-change](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0322-coin-change) |
@@ -332,6 +334,7 @@
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0240-search-a-2d-matrix-ii](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0240-search-a-2d-matrix-ii) |
+| [0287-find-the-duplicate-number](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0300-longest-increasing-subsequence) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -357,6 +360,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0287-find-the-duplicate-number) |
 | [0455-assign-cookies](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0455-assign-cookies) |
 | [0763-partition-labels](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0763-partition-labels) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/2410-maximum-matching-of-players-with-trainers) |
@@ -591,4 +595,12 @@
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/2778-sum-of-squares-of-special-elements) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
