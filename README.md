@@ -90,6 +90,7 @@
 | [0785-is-graph-bipartite](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0785-is-graph-bipartite) |
 | [0841-keys-and-rooms](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0841-keys-and-rooms) |
 | [1971-find-if-path-exists-in-graph](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/1971-find-if-path-exists-in-graph) |
+| [2115-find-all-possible-recipes-from-given-supplies](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 ## String
 |  |
 | ------- |
@@ -104,6 +105,7 @@
 | [0763-partition-labels](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0763-partition-labels) |
 | [0771-jewels-and-stones](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0771-jewels-and-stones) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [2115-find-all-possible-recipes-from-given-supplies](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -201,6 +203,7 @@
 | [1710-maximum-units-on-a-truck](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/1710-maximum-units-on-a-truck) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2115-find-all-possible-recipes-from-given-supplies](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 | [2140-solving-questions-with-brainpower](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/2140-solving-questions-with-brainpower) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -275,6 +278,7 @@
 | [0763-partition-labels](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0763-partition-labels) |
 | [0771-jewels-and-stones](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0771-jewels-and-stones) |
 | [0846-hand-of-straights](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0846-hand-of-straights) |
+| [2115-find-all-possible-recipes-from-given-supplies](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3668-restore-finishing-order](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/3668-restore-finishing-order) |
@@ -437,10 +441,12 @@
 | ------- |
 | [0207-course-schedule](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0210-course-schedule-ii) |
+| [2115-find-all-possible-recipes-from-given-supplies](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 ## Directed Acyclic Graph
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0207-course-schedule) |
+| [2115-find-all-possible-recipes-from-given-supplies](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 ## Number Theory
 |  |
 | ------- |
