@@ -106,6 +106,7 @@
 | [0771-jewels-and-stones](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0771-jewels-and-stones) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
+| [2409-count-days-spent-together](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/2409-count-days-spent-together) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -236,6 +237,7 @@
 | [0279-perfect-squares](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0279-perfect-squares) |
 | [0509-fibonacci-number](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0509-fibonacci-number) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2409-count-days-spent-together](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/2409-count-days-spent-together) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
