@@ -124,6 +124,7 @@
 | [0455-assign-cookies](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0455-assign-cookies) |
 | [0646-maximum-length-of-pair-chain](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0646-maximum-length-of-pair-chain) |
 | [0846-hand-of-straights](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0846-hand-of-straights) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1710-maximum-units-on-a-truck](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/1710-maximum-units-on-a-truck) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/2410-maximum-matching-of-players-with-trainers) |
@@ -200,6 +201,7 @@
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1049-last-stone-weight-ii](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/1049-last-stone-weight-ii) |
 | [1260-shift-2d-grid](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/1260-shift-2d-grid) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1480-running-sum-of-1d-array](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/1480-running-sum-of-1d-array) |
 | [1710-maximum-units-on-a-truck](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/1710-maximum-units-on-a-truck) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -350,6 +352,7 @@
 | [0287-find-the-duplicate-number](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0300-longest-increasing-subsequence) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Quicksort
 |  |
@@ -376,6 +379,7 @@
 | [0287-find-the-duplicate-number](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0287-find-the-duplicate-number) |
 | [0455-assign-cookies](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0455-assign-cookies) |
 | [0763-partition-labels](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/0763-partition-labels) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/JAI-ARORA6/Coding-Profile/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Stack
 |  |
